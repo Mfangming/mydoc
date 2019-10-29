@@ -8,3 +8,5 @@ crate a new branch
 
 create new branch quick & simple
 Crate feature branch
+
+fix bug 101
