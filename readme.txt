@@ -16,3 +16,5 @@ Crate feature branch
 fix bug 101
 
 ![Alt text](https://github.com/Mfangming/mydoc/blob/master/images/test.png)
+截图
+![Alt text](https://github.com/weiman152/StarsView/blob/master/ScreenShots/1.png)
