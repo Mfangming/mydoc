@@ -6,4 +6,4 @@ hahaha
 
 crate a new branch
 
-create new branch quick
+create new branch quick & simple.
