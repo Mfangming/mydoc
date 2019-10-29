@@ -7,6 +7,12 @@ hahaha
 crate a new branch
 
 create new branch quick & simple
+<<<<<<< HEAD
 Crate feature branch]
 
 isu
+=======
+Crate feature branch
+
+fix bug 101
+>>>>>>> issue-101
