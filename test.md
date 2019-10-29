@@ -226,7 +226,7 @@ header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Aria
 </style>
 </head>
 <body class='typora-export os-windows' >
-<div  id='write'  class = 'is-node'><h1><a name="第二章" class="md-header-anchor"></a><span>第二章</span></h1><h1><a name="第三章" class="md-header-anchor"></a><span>第三章</span></h1><h1><a name="第四章" class="md-header-anchor"></a><span>第四章</span></h1><h2><a name="42-面向对象技术" class="md-header-anchor"></a><span>4.2 面向对象技术</span></h2><h3><a name="423-面向对象的开发方式有什么优点" class="md-header-anchor"></a><span>4.2.3 面向对象的开发方式有什么优点</span></h3><p><span>1、提高开发效率</span>
+<div  id='write'  class = 'is-node'><h1><a name="第三章" class="md-header-anchor"></a><span>第三章</span></h1><h1><a name="第四章" class="md-header-anchor"></a><span>第四章</span></h1><h2><a name="42-面向对象技术" class="md-header-anchor"></a><span>4.2 面向对象技术</span></h2><h3><a name="423-面向对象的开发方式有什么优点" class="md-header-anchor"></a><span>4.2.3 面向对象的开发方式有什么优点</span></h3><p><span>1、提高开发效率</span>
 <span>2、可读性高、可维护性强</span>
 <span>3、复用性高</span></p><h3><a name="424-什么是继承" class="md-header-anchor"></a><span>4.2.4 什么是继承</span></h3><p><span>概念：子类通过继承父类，可以使用父类中的一些方法和变量，提高代码的复用性。</span>
 <span>继承的主要特性：</span>
