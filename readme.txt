@@ -15,4 +15,4 @@ Crate feature branch
 
 fix bug 101
 
-![image](https://github.com/Mfangming/mydoc/images/test.png)
+![image](https://github.com/Mfangming/mydoc/blob/master/images/test.png)
